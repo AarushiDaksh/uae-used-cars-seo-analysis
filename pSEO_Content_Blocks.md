@@ -1,16 +1,16 @@
 # Modular Content Blocks
 
 ## Popular features for Mercedes-Benz in Dubai
-- Based on listing descriptions, common features include: **sunroof, leather seats, bluetooth, navigation, adaptive cruise control, cruise control**.
-- Use these as filter facets and highlight them in cards.
+- Common features: **sunroof, leather seats, bluetooth, navigation, adaptive cruise control, cruise control**.
+- Show these as filters and highlight them on listing cards.
 
 ## What to check when buying a used S-Class in UAE
-- **Service history:** Prefer agency/service-center records; verify major services at 40k/80k/120k km.
-- **Accident/repair checks:** Inspect panels for repainting; check underbody & suspension for desert/off-road wear.
-- **Ownership costs:** Review **tyres**, **battery**, and **brake** life; cross-check insurance band for the model year.
-- **Test drive:** Listen for transmission shifts and check AC performance at idle and highway speeds.
+- Service history: look for regular maintenance and bills.
+- Accidents/repairs: check body panels, underbody, and suspension.
+- Running costs: tyres, battery, and brakes; confirm insurance band for the year.
+- Test drive: check smooth gear shifts and strong AC at idle and while driving.
 
-## Ownership cost proxies: Mileage and Year insights for Mercedes-Benz–S-Class
-- Median **mileage** and **price** help estimate depreciation curves.
-- Target **Under 50k km** where possible; verify condition via photos and inspection notes.
-- For budget pages (AED 15,000–85,000), surface listings with full service history and lower owners count where available.
+## Mileage and Year insights for Mercedes-Benz – S-Class
+- Median mileage and price help estimate depreciation.
+- Prefer cars with mileage under 50k km when possible.
+- For budget pages (AED 15,000–85,000), highlight cars with full service history and fewer previous owners.
